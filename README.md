@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This dashboard provides a detailed analysis of email marketing campaign performance over a three-month period (July–September 2024). It offers key insights into when audiences are most engaged, which content types perform best, how different client segments behave, and which regions contribute most to conversions. Built in Power BI, the dashboard transforms raw engagement metrics into actionable visualizations to support marketing strategy, UX optimization, and audience targeting. It enables campaign managers to identify high-impact sending times, optimize content design, and refine audience segmentation to improve open, click, and conversion rates.
+This dashboard provides a detailed analysis of email marketing campaign performance over a three-month period July–September 2024. It offers key insights into when audiences are most engaged, which content types perform best, how different client segments behave, and which regions contribute most to conversions. Built in Power BI, the dashboard transforms raw engagement metrics into actionable visualizations to support marketing strategy, UX optimization, and audience targeting. It enables campaign managers to identify high-impact sending times, optimize content design, and refine audience segmentation to improve open, click, and conversion rates.
 
 ## Dataset Overview
 
