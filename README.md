@@ -46,8 +46,6 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - September generated the highest open volume at 8,347, but had only 541 clicks, indicating lower click-through effectiveness.
 - July had the lowest open volume but still achieved 583 clicks, reflecting strong CTA or content performance among fewer engaged users.
 
-### Campaign Performance Overview
-
 #### Top Campaign by Conversion Rate
 - The August Newsletter delivered the highest conversion count, reaching 349 conversions, making it the most successful campaign of the quarter.
 - September Newsletter followed with 140 conversions, confirming that newsletters consistently perform well in driving user action.
@@ -69,4 +67,93 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - The highest engagement from Leads was seen in Events and Webinars, followed by Newsletters, while Lead Nurturing campaigns were engaged exclusively by Leads with no customer interaction.
 - In contrast, Customers showed lower but steady engagement, particularly in Newsletters and Events.
 - This pattern highlights that Leads are more active and responsive to campaign messaging, making them the ideal segment to prioritize for future targeting.
+
+### Total Clicks and Conversions by Client Segment
+- Leads recorded the highest engagement, with 1,314 total clicks and 806 conversions, outperforming Customers in both metrics.
+- Customers contributed 703 clicks and 471 conversions, showing lower response levels across all campaign types.
+- This trend highlights the importance of prioritizing Leads in future campaign targeting, as they consistently demonstrate stronger conversion intent.
+
+### Clicks by Device Type
+- The majority of email engagement occurred on desktop devices, which accounted for 1,244 clicks (61.7%).
+- Mobile devices generated 771 clicks (38.2%), reflecting a strong on-the-go audience segment.
+- Only 2 clicks (0.1%) came from unknown devices.
+- These insights reinforce the need to optimize email layout and CTA design for both desktop and mobile audiences.
+
+### Conversions by Goal Type
+- Web Visit was the most successful goal, achieving 551 total conversions, 311 from Leads, 240 from Customers.
+- Sign Up ranked second, with 269 conversions from Leads and 172 from Customers, totaling 441 conversions.
+- Purchase conversions were heavily driven by Leads 123 vs. 4, indicating higher buying intent among prospects.
+- Form Completion had the lowest total, with only 33 conversions recorded.
+
+### Click Engagement by Conversion Goal Type
+- Sign Up received the most click activity with 495 clicks from Leads and 304 from Customers, totaling 799 clicks.
+- Web Visit followed, with 363 clicks from Leads and 263 from Customers.
+- Purchase had a strong lead-side performance 241 clicks but very low from Customers 9 clicks, showing a steep drop in conversion likelihood.
+- Form Completion and Download goals had the lowest engagement, with just 45 and 170 clicks from Leads respectively.
+
+### Country-Level Performance
+- Iceland delivered a perfect 100% open, click, and conversion rate, making it the top-performing country overall.
+- Vanuatu and Guinea followed with 20% and 11% conversion rates respectively, standing out as high-converting regions.
+- Most countries recorded conversion rates under 10%, indicating that strong performance is concentrated in a few standout regions.
+
+### Continent-Level Conversion Trends
+- Asia recorded the highest number of total conversions 426, making it the most engaged region.
+- Europe followed with 268 conversions, and North America placed third with 213 conversions.
+- Australia/Oceania showed the lowest performance, contributing just 31 conversions across all segments.
+
+### Campaign Type by Continent
+- Events and Webinars were the best-performing campaign types across all continents—especially in Asia around 211 conversions and Africa in total 149 conversions.
+- Newsletters had consistent performance in Europe and North America.
+- Lead Nurturing was most active in North America around 57 conversions and Europe around 34 conversions, with limited impact elsewhere.
+- Promotional campaigns showed minimal traction across all regions.
+
+### Countries with the Highest Unsubscribe & Bounce Rates
+- Kosovo recorded the highest unsubscribe rate at 2.22%, followed by Lebanon 1.61% and Denmark 1.30%.
+- Afghanistan had the highest bounce rate at 3.70%, over 15x the global average.
+- Myanmar, UAE, Indonesia, and Australia had the lowest bounce rates below 0.25%, indicating strong list quality and deliverability.
+
+## Recommendations
+
+### Campaign Timing
+- Focus email delivery on mid-week days, which consistently demonstrate higher open and click rates. These align better with user behavior and inbox-checking patterns.
+- Avoid weekend sends, especially Sundays as engagement significantly drops due to reduced screen time and work related attention.
+- Maintain a consistent send schedule whicha re same time and day each week to improve familiarity and support long-term open rate performance.
+- Avoid over sending, as high campaign frequency correlates with higher unsubscribe rates. Saturated segments should be managed carefully to protect list health.
+
+### Campaign Content Strategy
+- Continue prioritizing Events, Webinars, and Newsletters, as these consistently yield the highest conversion results.
+- Use visual storytelling to enhance emotional connection and brand recall. Visuals are processed up to 60,000x faster than text and improve engagement.
+- Optimize CTA buttons by:
+  - Placing CTAs in clear, prominent areas  
+  - Using contrasting colors to draw attention  
+  - Applying action-oriented language like “Download Now” or “Get Your Guide”
+- Implement A/B testing to validate subject lines, CTA designs, and layout decisions—ensuring the best-performing variants are prioritized.
+
+### Audience Targeting
+- Prioritize Leads in campaign targeting—they deliver stronger click and conversion rates and present better ROI potential.
+- Reevaluate the Promotional campaign strategy, which showed the lowest engagement. Revise messaging, design, or targeting to improve relevance.
+- Focus efforts on high-performing countries like Iceland, Vanuatu, and Guinea. Simultaneously, exclude or clean underperforming segments with high bounce rates to improve deliverability.
+
+### Device Experience & UX Optimization
+- With over 61% of clicks from desktop, ensure landing pages are optimized for fast loading, clean design, and intuitive layout.
+- Improve landing page quality by:
+  - Ensuring SEO-optimized, original, and relevant content  
+  - Highlighting unique selling propositions (USPs) early  
+  - Using trust signals (testimonials, contact info, security icons)  
+  - Simplifying navigation and reducing visual clutter
+
+### Conversion Goal Design
+- Continue promoting Web Visits and Sign-Ups, which currently show the highest success rates.
+- Redesign or test new approaches for lower performing goals like Form Completions and Downloads consider shorter forms, clearer CTA text, and better-aligned landing pages.
+- Tailor messaging and CTA design based on goal type to ensure better alignment between user intent and experience.
+
+### List Hygiene & Email Deliverability
+- Audit and clean contact lists from high-bounce campaigns like Product Workshop (July) and After Event Follow-Up to improve sender reputation.
+- Replicate formatting, tone, and send timing from low bounce campaigns like Drip3 Licensing to enhance inbox placement.
+- Monitor unsubscribe behavior in countries with high opt-out rates (e.g., Kosovo, Lebanon). Consider reducing frequency or changing tone for these regions.
+
+### High Open, Low Click Campaigns
+- Investigate campaigns like September, which showed strong open performance but low click through rates often due to weak CTAs or content mismatch.
+- Rework layout, message clarity, and CTA visibility on dates like Day 17, 20, and 24 to better convert already-engaged recipients.
+
 
