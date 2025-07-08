@@ -54,7 +54,7 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 </p>
 
 ### Weekly Trends
-- Wednesday stands out as the highest performing weekday, achieving 9.2K opens and 615 clicks—more than double the volume of other weekdays.
+- Wednesday stands out as the highest performing weekday, achieving 9.2K opens and 615 clicks, more than double the volume of other weekdays.
 - Monday and Thursday both recorded 3.3K opens and clicks, positioning them as secondary best days.
 - Sunday has the lowest engagement indicating that weekend emails are less effective.
 <p align="center">
