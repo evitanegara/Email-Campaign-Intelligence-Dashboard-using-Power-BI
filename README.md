@@ -56,11 +56,17 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Wednesday stands out as the highest performing weekday, achieving 9.2K opens and 615 clicks—more than double the volume of other weekdays.
 - Monday and Thursday both recorded 3.3K opens and clicks, positioning them as secondary best days.
 - Sunday has the lowest engagement indicating that weekend emails are less effective.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ca2f103-8fde-40ce-9ec2-04359a61b1f2" alt="email campaign dasboard" width="700"/>
+</p>
 
 ### Monthly Trend
 - August led in total click volume with 8,203 clicks and had 8,203 opens, marking it as the most engaging campaign month overall.
 - September generated the highest open volume at 8,347, but had only 541 clicks, indicating lower click-through effectiveness.
 - July had the lowest open volume but still achieved 583 clicks, reflecting strong CTA or content performance among fewer engaged users.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fad8cea8-dd7d-4826-a219-d813d1f08810" alt="email campaign dasboard" width="700"/>
+</p>
 
 #### Top Campaign by Conversion Rate
 - The August Newsletter delivered the highest conversion count, reaching 349 conversions, making it the most successful campaign of the quarter.
