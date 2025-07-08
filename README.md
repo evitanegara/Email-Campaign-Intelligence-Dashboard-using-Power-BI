@@ -28,10 +28,6 @@ This dashboard provides a detailed analysis of email marketing campaign performa
 
 The analysis reveals that email engagement peaks mid-week, with Wednesdays showing the highest opens and clicks. August was the best-performing month by clicks, while September led in opens but had a lower click-through rate. Events and Webinars were the most effective campaign types, and Leads consistently outperformed Customers in both clicks and conversions. Most engagement occurred on desktop devices, but mobile also contributed significantly. Top conversion goals were Web Visits and Sign Ups, while Form Completions and Downloads underperformed. Asia led by total conversions, and Iceland had perfect engagement metrics, contrasting with high bounce and unsubscribe rates in countries like Afghanistan and Kosovo.
 ## Visualization
-![image](https://github.com/user-attachments/assets/3a3fa00c-c5b4-4253-97e0-26140ef35f5e)
-![image](https://github.com/user-attachments/assets/d53de185-3950-4bf9-9e22-a151eded241e)
-![image](https://github.com/user-attachments/assets/d9694876-68c1-4e51-a5eb-8a556a58726c)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a3fa00c-c5b4-4253-97e0-26140ef35f5e" alt="email campaign" width="700"/>
 </p>
@@ -52,6 +48,9 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Day 7 follows with 2.8K opens and 272 clicks, showing another peak in engagement.
 - Day 28 and Day 3 also saw strong performance, with over 2K opens each and 150+ clicks.
 - Several dates such as Day 20, 17, and 24 saw fewer than 10 clicks, indicating possible inefficiencies in CTA placement or email content.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ef18948-f934-4910-980a-14c3161f93bf" alt="email campaign dasboard" width="700"/>
+</p>
 
 ### Weekly Trends
 - Wednesday stands out as the highest performing weekday, achieving 9.2K opens and 615 clicks—more than double the volume of other weekdays.
