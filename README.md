@@ -157,7 +157,6 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Europe followed with 268 conversions, and North America placed third with 213 conversions.
 - Australia/Oceania showed the lowest performance, contributing just 31 conversions across all segments.
   
-![image](https://github.com/user-attachments/assets/710fcd03-534a-4861-a138-e64fe504d4de)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/710fcd03-534a-4861-a138-e64fe504d4de" alt="email campaign dasboard" width="400"/>
 </p>
@@ -167,8 +166,7 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Newsletters had consistent performance in Europe and North America.
 - Lead Nurturing was most active in North America around 57 conversions and Europe around 34 conversions, with limited impact elsewhere.
 - Promotional campaigns showed minimal traction across all regions.
-- 
-![image](https://github.com/user-attachments/assets/65e04c2c-f55c-455d-957e-88b1ca76cc90)
+  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65e04c2c-f55c-455d-957e-88b1ca76cc90" alt="email campaign dasboard" width="400"/>
 </p>
@@ -177,7 +175,7 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Kosovo recorded the highest unsubscribe rate at 2.22%, followed by Lebanon 1.61% and Denmark 1.30%.
 - Afghanistan had the highest bounce rate at 3.70%, over 15x the global average.
 - Myanmar, UAE, Indonesia, and Australia had the lowest bounce rates below 0.25%, indicating strong list quality and deliverability.
-- 
+  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/53d582a3-2113-46d2-83fa-d32ab4893dd6" alt="email campaign dasboard" width="400"/>
 </p>
