@@ -27,6 +27,23 @@ This dashboard provides a detailed analysis of email marketing campaign performa
 ## Executive Summary
 
 The analysis reveals that email engagement peaks mid-week, with Wednesdays showing the highest opens and clicks. August was the best-performing month by clicks, while September led in opens but had a lower click-through rate. Events and Webinars were the most effective campaign types, and Leads consistently outperformed Customers in both clicks and conversions. Most engagement occurred on desktop devices, but mobile also contributed significantly. Top conversion goals were Web Visits and Sign Ups, while Form Completions and Downloads underperformed. Asia led by total conversions, and Iceland had perfect engagement metrics, contrasting with high bounce and unsubscribe rates in countries like Afghanistan and Kosovo.
+## Visualization
+![image](https://github.com/user-attachments/assets/3a3fa00c-c5b4-4253-97e0-26140ef35f5e)
+![image](https://github.com/user-attachments/assets/d53de185-3950-4bf9-9e22-a151eded241e)
+![image](https://github.com/user-attachments/assets/d9694876-68c1-4e51-a5eb-8a556a58726c)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a3fa00c-c5b4-4253-97e0-26140ef35f5" alt="email campaign" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d53de185-3950-4bf9-9e22-a151eded241e" alt="email campaign power bi" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9694876-68c1-4e51-a5eb-8a556a58726c" alt="email campaign dasboard" width="700"/>
+</p>
+
 ## Insights Deep-Dive
 
 ###  Time-Based Engagement Patterns
@@ -155,5 +172,7 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 ### High Open, Low Click Campaigns
 - Investigate campaigns like September, which showed strong open performance but low click through rates often due to weak CTAs or content mismatch.
 - Rework layout, message clarity, and CTA visibility on dates like Day 17, 20, and 24 to better convert already-engaged recipients.
+ 
+## Contact
 
-
+For questions or collaboration, contact **evitanegara@gmail.com**
