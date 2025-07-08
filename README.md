@@ -48,8 +48,9 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Day 7 follows with 2.8K opens and 272 clicks, showing another peak in engagement.
 - Day 28 and Day 3 also saw strong performance, with over 2K opens each and 150+ clicks.
 - Several dates such as Day 20, 17, and 24 saw fewer than 10 clicks, indicating possible inefficiencies in CTA placement or email content.
+- 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ef18948-f934-4910-980a-14c3161f93bf" alt="email campaign dasboard" width="700"/>
+  <img src="https://github.com/user-attachments/assets/5ef18948-f934-4910-980a-14c3161f93bf" alt="email campaign dasboard" width="400"/>
 </p>
 
 ### Weekly Trends
@@ -57,25 +58,26 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Monday and Thursday both recorded 3.3K opens and clicks, positioning them as secondary best days.
 - Sunday has the lowest engagement indicating that weekend emails are less effective.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ca2f103-8fde-40ce-9ec2-04359a61b1f2" alt="email campaign dasboard" width="700"/>
+  <img src="https://github.com/user-attachments/assets/6ca2f103-8fde-40ce-9ec2-04359a61b1f2" alt="email campaign dasboard" width="400"/>
 </p>
 
 ### Monthly Trend
 - August led in total click volume with 8,203 clicks and had 8,203 opens, marking it as the most engaging campaign month overall.
 - September generated the highest open volume at 8,347, but had only 541 clicks, indicating lower click-through effectiveness.
 - July had the lowest open volume but still achieved 583 clicks, reflecting strong CTA or content performance among fewer engaged users.
+  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fad8cea8-dd7d-4826-a219-d813d1f08810" alt="email campaign dasboard" width="700"/>
+  <img src="https://github.com/user-attachments/assets/fad8cea8-dd7d-4826-a219-d813d1f08810" alt="email campaign dasboard" width="400"/>
 </p>
 
 ### Top Campaign by Conversion Rate
 - The August Newsletter delivered the highest conversion count, reaching 349 conversions, making it the most successful campaign of the quarter.
 - September Newsletter followed with 140 conversions, confirming that newsletters consistently perform well in driving user action.
 - Other high-performing campaigns include After Event Follow-Up with 125 conversions, Product Workshop Invitation July with 100 conversions, and Product Workshop Invitation September with 89 conversions, all of which demonstrate strong user engagement beyond the top newsletters.
-  ![image](https://github.com/user-attachments/assets/c3882a37-1607-452d-a13a-c8934f5c38b4)
+
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3882a37-1607-452d-a13a-c8934f5c38b4" alt="email campaign dasboard" width="700"/>
+  <img src="https://github.com/user-attachments/assets/c3882a37-1607-452d-a13a-c8934f5c38b4" alt="email campaign dasboard" width="400"/>
 </p>
 
 ### Campaigns with the Highest Bounce Rate
