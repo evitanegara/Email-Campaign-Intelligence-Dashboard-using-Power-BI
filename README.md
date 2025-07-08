@@ -26,7 +26,7 @@ This dashboard provides a detailed analysis of email marketing campaign performa
 
 ## Executive Summary
 
-The analysis reveals that email engagement peaks mid-week, with Wednesdays showing the highest opens and clicks. August was the best-performing month by clicks, while September led in opens but had a lower click-through rate. Events and Webinars were the most effective campaign types, and Leads consistently outperformed Customers in both clicks and conversions. Most engagement occurred on desktop devices, but mobile also contributed significantly. Top conversion goals were Web Visits and Sign Ups, while Form Completions and Downloads underperformed. Asia led by total conversions, and Iceland had perfect engagement metrics, contrasting with high bounce and unsubscribe rates in countries like Afghanistan and Kosovo.
+The analysis reveals that email engagement peaks mid-week, with Wednesdays showing the highest opens and clicks. August was the best-performing month by clicks, while September led in opens but had a lower click through rate. Events and Webinars were the most effective campaign types, and Leads consistently outperformed Customers in both clicks and conversions. Most engagement occurred on desktop devices, but mobile also contributed significantly. Top conversion goals were Web Visits and Sign Ups, while Form Completions and Downloads underperformed. Asia led by total conversions, and Iceland had perfect engagement metrics, contrasting with high bounce and unsubscribe rates in countries like Afghanistan and Kosovo.
 ## Visualization
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a3fa00c-c5b4-4253-97e0-26140ef35f5e" alt="email campaign" width="700"/>
@@ -63,7 +63,7 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 
 ### Monthly Trend
 - August led in total click volume with 8,203 clicks and had 8,203 opens, marking it as the most engaging campaign month overall.
-- September generated the highest open volume at 8,347, but had only 541 clicks, indicating lower click-through effectiveness.
+- September generated the highest open volume at 8,347, but had only 541 clicks, indicating lower click through effectiveness.
 - July had the lowest open volume but still achieved 583 clicks, reflecting strong CTA or content performance among fewer engaged users.
   
 <p align="center">
@@ -149,7 +149,7 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 
 ### Country-Level Performance
 - Iceland delivered a perfect 100% open, click, and conversion rate, making it the top-performing country overall.
-- Vanuatu and Guinea followed with 20% and 11% conversion rates respectively, standing out as high-converting regions.
+- Vanuatu and Guinea followed with 20% and 11% conversion rates respectively, standing out as high converting regions.
 - Most countries recorded conversion rates under 10%, indicating that strong performance is concentrated in a few standout regions.
 
 ### Continent-Level Conversion Trends
@@ -187,9 +187,9 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 ## Recommendations
 
 ### Campaign Timing
-- Focus email delivery on mid-week days, which consistently demonstrate higher open and click rates. These align better with user behavior and inbox-checking patterns.
+- Focus email delivery on mid-week days, which consistently demonstrate higher open and click rates. These align better with user behavior and inbox checking patterns.
 - Avoid weekend sends, especially Sundays as engagement significantly drops due to reduced screen time and work related attention.
-- Maintain a consistent send schedule whicha re same time and day each week to improve familiarity and support long-term open rate performance.
+- Maintain a consistent send schedule whicha re same time and day each week to improve familiarity and support longterm open rate performance.
 - Avoid over sending, as high campaign frequency correlates with higher unsubscribe rates. Saturated segments should be managed carefully to protect list health.
 
 ### Campaign Content Strategy
@@ -199,12 +199,12 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
   - Placing CTAs in clear, prominent areas  
   - Using contrasting colors to draw attention  
   - Applying action-oriented language like “Download Now” or “Get Your Guide”
-- Implement A/B testing to validate subject lines, CTA designs, and layout decisions—ensuring the best-performing variants are prioritized.
+- Implement A/B testing to validate subject lines, CTA designs, and layout decisions ensuring the best-performing variants are prioritized.
 
 ### Audience Targeting
-- Prioritize Leads in campaign targeting—they deliver stronger click and conversion rates and present better ROI potential.
+- Prioritize Leads in campaign targeting they deliver stronger click and conversion rates and present better ROI potential.
 - Reevaluate the Promotional campaign strategy, which showed the lowest engagement. Revise messaging, design, or targeting to improve relevance.
-- Focus efforts on high-performing countries like Iceland, Vanuatu, and Guinea. Simultaneously, exclude or clean underperforming segments with high bounce rates to improve deliverability.
+- Focus efforts on high performing countries like Iceland, Vanuatu, and Guinea. Simultaneously, exclude or clean underperforming segments with high bounce rates to improve deliverability.
 
 ### Device Experience & UX Optimization
 - With over 61% of clicks from desktop, ensure landing pages are optimized for fast loading, clean design, and intuitive layout.
@@ -215,14 +215,14 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
   - Simplifying navigation and reducing visual clutter
 
 ### Conversion Goal Design
-- Continue promoting Web Visits and Sign-Ups, which currently show the highest success rates.
-- Redesign or test new approaches for lower performing goals like Form Completions and Downloads consider shorter forms, clearer CTA text, and better-aligned landing pages.
+- Continue promoting Web Visits and Sign Ups, which currently show the highest success rates.
+- Redesign or test new approaches for lower performing goals like Form Completions and Downloads consider shorter forms, clearer CTA text, and better aligned landing pages.
 - Tailor messaging and CTA design based on goal type to ensure better alignment between user intent and experience.
 
 ### List Hygiene & Email Deliverability
-- Audit and clean contact lists from high-bounce campaigns like Product Workshop (July) and After Event Follow-Up to improve sender reputation.
+- Audit and clean contact lists from high-bounce campaigns like Product Workshop July and After Event Follow Up to improve sender reputation.
 - Replicate formatting, tone, and send timing from low bounce campaigns like Drip3 Licensing to enhance inbox placement.
-- Monitor unsubscribe behavior in countries with high opt-out rates (e.g., Kosovo, Lebanon). Consider reducing frequency or changing tone for these regions.
+- Monitor unsubscribe behavior in countries with high opt-out rates example Kosovo, Lebanon. Consider reducing frequency or changing tone for these regions.
 
 ### High Open, Low Click Campaigns
 - Investigate campaigns like September, which showed strong open performance but low click through rates often due to weak CTAs or content mismatch.
