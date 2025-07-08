@@ -48,7 +48,7 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Day 7 follows with 2.8K opens and 272 clicks, showing another peak in engagement.
 - Day 28 and Day 3 also saw strong performance, with over 2K opens each and 150+ clicks.
 - Several dates such as Day 20, 17, and 24 saw fewer than 10 clicks, indicating possible inefficiencies in CTA placement or email content.
-- 
+  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ef18948-f934-4910-980a-14c3161f93bf" alt="email campaign dasboard" width="400"/>
 </p>
@@ -122,7 +122,7 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 - Mobile devices generated 771 clicks (38.2%), reflecting a strong on-the-go audience segment.
 - Only 2 clicks (0.1%) came from unknown devices.
 - These insights reinforce the need to optimize email layout and CTA design for both desktop and mobile audiences.
-- 
+  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/482fab32-f16b-4f2f-ad79-7e1371dfd1e1" alt="email campaign dasboard" width="400"/>
 </p>
