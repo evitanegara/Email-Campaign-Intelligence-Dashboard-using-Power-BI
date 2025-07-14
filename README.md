@@ -37,9 +37,8 @@ The analysis reveals that email engagement peaks mid-week, with Wednesdays showi
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d53de185-3950-4bf9-9e22-a151eded241e" alt="email campaign power bi" width="700"/>
+  <img src="https://github.com/user-attachments/assets/090da39f-d4e5-4e24-8fbf-2812e8be9b90" alt="email campaign power bi" width="700"/>
 </p>
-
 
 ## Insights Deep-Dive
 
